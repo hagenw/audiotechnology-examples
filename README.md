@@ -8,8 +8,8 @@ Design](http://www.filmuniversitaet.de/en/study-application/ma-courses/av-applic
 at[Filmuniversität Babelsberg KONRAD WOLF](http://www.filmuniversitaet.de).
 
 The examples are provided as [Jupyter notebooks](http://jupyter.org/).
-They can be also viewed as [static web pages](http://nbviewer.ipython.org/github/spatialaudio/communication-acoustics-exercises/blob/master/index.ipynb).
-Alternatively, you can [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/spatialaudio/communication-acoustics-exercises) to work in an *interactive* online experience just created for you!
+They can be also viewed as [static web pages](http://nbviewer.ipython.org/github/Filmuni-AVAD/audiotechnology-examples/blob/master/index.ipynb).
+Alternatively, you can [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Filmuni-AVAD/audiotechnology-examples) to work in an *interactive* online experience just created for you!
 
 Most of the examples are based on the great course
 [Communication Acoustics -
